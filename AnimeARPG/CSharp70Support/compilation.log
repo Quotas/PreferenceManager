@@ -1,0 +1,60 @@
+********************************************************************************
+*                     Wednesday, June 07, 2017 2:31:07 PM                      *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 2.0.3.30
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG
+Target profile directory: G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity 'Data' or 'Frameworks' directory: G:/Programming/Unity/Editor/Data
+Compiler: Microsoft C# 7.0
+
+- Compilation -----------------------------------------------
+
+Process: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG\CSharp70Support\Roslyn\csc.exe
+Arguments: -nostdlib+ -noconfig -nologo -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll" @Temp/UnityTempFile-573b4bfd6d7612444905c6c53f193e0c 
+Exit code: 0
+Elapsed time: 1.15 sec
+
+- Compiler output (0 lines):
+
+- Compiler errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.10 sec
+
+- pdb2mdb.exe output (0 lines):
+********************************************************************************
+*                     Wednesday, June 07, 2017 2:31:09 PM                      *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 2.0.3.30
+Platform: Windows
+Target assembly: Assembly-CSharp-Editor.dll
+Project directory: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG
+Target profile directory: G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api
+Unity 'Data' or 'Frameworks' directory: G:/Programming/Unity/Editor/Data
+Compiler: Microsoft C# 7.0
+
+- Compilation -----------------------------------------------
+
+Process: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG\CSharp70Support\Roslyn\csc.exe
+Arguments: -nostdlib+ -noconfig -nologo -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll" -r:"G:\Programming\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll" @Temp/UnityTempFile-0d06115c9b6f7b847899fdb1cda56343 
+Exit code: 0
+Elapsed time: 0.39 sec
+
+- Compiler output (0 lines):
+
+- Compiler errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: C:\Users\Seamus\Desktop\Programming\AnimeARPG\AnimeARPG\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp-Editor.dll
+Exit code: 0
+Elapsed time: 0.04 sec
+
+- pdb2mdb.exe output (0 lines):
